@@ -1,4 +1,6 @@
 # Web-Scraping-in-Python
+
+## Introduction
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.
 
 The incredible amount of data on the Internet is a rich resource for any field of research or personal interest. To effectively harvest that data, we need to become skilled at web scraping.
@@ -8,7 +10,7 @@ In this exercise, we will do the following:
 - Walk through a web scraping pipeline from start to finish
 - Build a script that fetches job offers from the Web and displays relevant information in your console
 
-# Challenges of Web Scraping
+## Challenges of Web Scraping
 The Web has grown organically out of many sources. It combines a ton of different technologies, styles, and personalities, and it continues to grow to this day. In other words, the Web is kind of a hot mess! This can lead to a few challenges you’ll see when you try web scraping.
 
 One challenge is variety. Every website is different. While you’ll encounter general structures that tend to repeat themselves, each website is unique and will need its own personal treatment if you want to extract the information that’s relevant to you.
@@ -19,5 +21,10 @@ This is a realistic scenario, as many websites are in active development. Once t
 
 However, keep in mind that because the internet is dynamic, the scrapers you’ll build will probably require constant maintenance. You can set up continuous integration to run scraping tests periodically to ensure that your main script doesn’t break without your knowledge.
 
-## References:
+## Steps to scraping a site
+- Part 1: Inspect Your Data Source
+- Part 2: Scrape HTML Content From a Page
+- Part 3: Parse HTML Code With Beautiful Soup
+
+### References:
 https://realpython.com/beautiful-soup-web-scraper-python/
