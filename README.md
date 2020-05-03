@@ -26,5 +26,8 @@ However, keep in mind that because the internet is dynamic, the scrapers you’l
 - Part 2: Scrape HTML Content From a Page
 - Part 3: Parse HTML Code With Beautiful Soup
 
+### Link we will scrap for an example:
+[Wiki page for Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation)
+
 ### References:
 https://realpython.com/beautiful-soup-web-scraper-python/
